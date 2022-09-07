@@ -1,3 +1,35 @@
 h1 {
     color: blue;
+    border: 10px solid white;
+    text-align: center;
+}
+#fall {
+    color: orange;
+    text-align: center;
+}
+img {
+    border: 10px solid white;
+    margin: 20px 
+    
+    
+}
+p {
+    text-align: center;
+}
+.bordered {
+    color: blue;
+    border: 5px solid white;
+    margin: 10px;
+    padding: 10px;
+    font-weight:bold;
+    font-style:italic
+
+}
+body {
+    background-color: lightblue;
+}
+li {
+    color:blue;
+    text-align:center;
+    font-weight:bold;
 }
